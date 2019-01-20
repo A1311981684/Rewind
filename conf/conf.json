@@ -1,0 +1,8 @@
+{
+    "LocalPort": 8888,
+    "Role": "client",
+    "ClientTimeout": 3,
+    "RetryCount": 5,
+    "TargetIP": "127.0.0.1",
+    "TargetPort": 8888
+}
